@@ -4,4 +4,4 @@ This program goes through a bitrange with an incrementing gridsize and tells you
 # Work in Progress
 adding average
 
-adding printing the optimal gridsize for the set bitrange.
+
